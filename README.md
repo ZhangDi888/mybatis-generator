@@ -1,0 +1,2 @@
+# mybatis-generator
+使用mybatis逆向生成工具，根据数据库的表，逆向生成mapper、bean、xml文件，然后把这些文件复制到项目中，如果想让这些文件在项目中生效需要在xml文件中导入相关依赖
